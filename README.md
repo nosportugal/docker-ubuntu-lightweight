@@ -1,4 +1,4 @@
-# docker-ubuntu-lightweight
+# Docker Ubuntu lightweight
 
 A lightweight docker image from ubuntu latest with openssl and curl
 
