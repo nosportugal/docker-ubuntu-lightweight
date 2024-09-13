@@ -8,7 +8,7 @@ on:
 env:
   REGISTRY: ghcr.io
   IMAGE_NAME: ${{ github.repository }}/openssl-curl
-  IMAGE_TAG: 1.0.0
+  IMAGE_TAG: latest
 
 permissions:
   contents: read
